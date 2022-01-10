@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/Vaibhavi-Sita/DevChallenges">
+    <a href="https://github.com/Vaibhavi-Sita/DevChallenges/tree/main/ResponsiveWebDeveloper/404NotFound">
       Solution
     </a>
     <span> | </span>
