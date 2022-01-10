@@ -35,7 +35,6 @@
 <!-- OVERVIEW -->
 
 ## Overview
-
 ![screenshot](./assets/Screenshot.jpg)
 
 
