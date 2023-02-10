@@ -1,2 +1,4 @@
 /ResponsiveWebDeveloper/404NotFound/.gitignore
 image-uploader/package-lock.json
+imageUploader/image-uploader/yarn.lock
+imageUploader/image-uploader/package-lock.json
